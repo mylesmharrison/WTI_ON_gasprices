@@ -1,6 +1,6 @@
 # Ontario Gas Price & WTI Analysis
 # Myles Harrison
-# http://www.everydayanaltics.ca
+# http://www.everydayanalytics.ca
 # Jan 2015
 
 library(ts)
